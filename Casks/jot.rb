@@ -7,7 +7,7 @@ cask "jot" do
   desc "Scratchpad for reviewing AI output: capture, annotate, paste back"
   homepage "https://github.com/ishaan-os/jot"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Jot.app"
 
