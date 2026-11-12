@@ -1,6 +1,6 @@
 cask "jot" do
-  version "0.1.3"
-  sha256 "c8b99019c44905fbda29fad7dfc6c231204bd876071890d51bbce09833fac6ed"
+  version "0.1.4"
+  sha256 "71d9bb721bcea6b6e3e8c6a72cf367e1e0ab77f897a17d60db74339b87b04dce"
 
   url "https://github.com/ishaan-os/jot/releases/download/v#{version}/Jot-#{version}.dmg"
   name "Jot"
